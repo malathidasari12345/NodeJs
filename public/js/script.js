@@ -1,0 +1,1 @@
+console.log("hiii this is console from public")
